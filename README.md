@@ -1,7 +1,7 @@
 ### Hello World, Myself Mohit! 👋
 
-https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif
 
+![stack Overflow](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif)
 ## About Me
 
 Recently graduated from Seneca College. I'm a computer programmer with an avid interest in Data Science and developed a diverse Software Engineering and Data skillset.

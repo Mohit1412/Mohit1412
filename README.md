@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello World, Myself Mohit! 👋
 
-<!--
-**Mohit1412/Mohit1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently graduated from Seneca College. I'm a computer programmer with an avid interest in Data Science and developed a diverse Software Engineering and Data skillset.
+
+Would be interested in getting exposure to domains providing intellectually challenging work in the field of computers for proving and enriching my knowledge and skills.
+
+Some of my skills are:
+• Programming languages: Python, Scala, R, C++, Java
+• Databases: MongoDB, DynamoDB, Cassandra, HBase, SQL
+• Big Data Tech: MapReduce, Spark, MLlib, Hive, Pig
+• Testing Skills: Test Strategy, Test Plan, Use Cases, JMeter, Junit
+• Software: Jupyter Notebook, MATLAB, VMware, Eclipse
+• Miscellaneous: Tableau, Selenium, AWS (S3 and EC2), Linux, GIT

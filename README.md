@@ -4,18 +4,16 @@
 ![stack Overflow](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif)
 ## About Me
 
-Recently graduated from Seneca College. I'm a computer programmer with an avid interest in Data Science and developed a diverse Software Engineering and Data skillset.
-
+I am recent graduate from Seneca college. I have interned as Full Stack Developer and developed a diverse Software Engineering and Testing Skillset. 
 Would be interested in getting exposure to domains providing intellectually challenging work in the field of computers for proving and enriching my knowledge and skills.
 
 
-## Technology domain I work on...
+## Some of my skills:
 
-• Programming languages: Python, Scala, R, C++, Java
-• Databases: MongoDB, DynamoDB, Cassandra, HBase, SQL
-• Big Data Tech: MapReduce, Spark, MLlib, Hive, Pig
-• Testing Skills: Test Strategy, Test Plan, Use Cases, JMeter, Junit
-• Software: Jupyter Notebook, MATLAB, VMware, Eclipse
-• Miscellaneous: Tableau, Selenium, AWS (S3 and EC2), Linux, GIT
+• Programming languages: Python, Java, R, C++
+• Databases: MongoDB, SQL, 
+• Testing Skills: Test Strategy, Test Plan,Selenium, Use Cases, JMeter, Junit
+• Software: Jupyter Notebook, MATLAB, VMware, Eclipse, JIRA,
+• Web Tech: Angular, React, Node.js, Express.js, Cloud Computing (AWS, Azure, and Oracle), Git
 
 Feel Free to Connect
